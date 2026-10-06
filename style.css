@@ -1,0 +1,100 @@
+.container{ 
+    background-color: black;
+    border: 2px solid yellow;
+}
+
+h1{
+    background-color: pin;
+    color: white;
+}
+
+.left-section{
+   m
+   
+}
+.home{
+      background-color: rgb(43, 34, 34);
+}
+.your{
+      background-color: rgb(43, 34, 34);
+}
+
+.right-section{
+    border: 2px solid black;
+    background-color: rgb(43, 34, 34);
+}
+
+.audio img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(121, 219, 94, 0.4);
+}
+
+.audio-music{
+    flex-wrap:wrap;
+    gap: 10px;
+    width: 100%;
+    margin: 10px 10px;
+}
+
+
+
+p{
+     flex-wrap:wrap;
+    gap: 10px;
+}
+
+.btn1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.arrows {
+    display: flex;
+    gap: 10px;
+}
+
+.arrows img {
+    width: 30px;
+    height: 30px;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.auth1{
+    background-color: black;
+    color: white;
+    
+}
+
+.audio-music {
+
+    overflow-y: auto;
+    scrollbar-width: none;
+}
+
+.audio-music::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+.audio-music {
+    scrollbar-width: none;
+}
+
+.audio-music::-webkit-scrollbar {
+    display: none;
+}
+
+
